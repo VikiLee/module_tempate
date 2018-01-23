@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'Hello world',
+  name: 'hello_world',
   data() {
     return {}
   }
